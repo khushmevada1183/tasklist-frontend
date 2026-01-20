@@ -92,3 +92,4 @@ The frontend integrates with the following API endpoints:
 2. All protected routes require `Authorization: Bearer <token>` header
 3. Task status defaults to "todo" when created
 4. Update and delete operations are out of scope
+.
